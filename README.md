@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Murat 👋
 
-<!--
-**Rashinu/Rashinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer focused on backend development, automation and AI projects.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Node.js
+- SQL
+- Java
+- REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### INF CRM
+Backend CRM system for managing users and business records.  
+Deployed backend application with CRUD operations.
+
+### Mini Ecommerce Backend
+Node.js REST API backend for product and order management.
+
+### Node SQL Inventory
+Inventory management system using Node.js and SQL.
+
+### Async Task Manager API
+Simulation of asynchronous backend task processing.
+
+### Listifty AI
+AI-powered task and list management assistant.
+
+## GitHub
+https://github.com/Rashinu
