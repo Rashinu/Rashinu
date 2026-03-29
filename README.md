@@ -3,7 +3,7 @@
 Junior Software Engineer focused on backend development, automation and AI projects.
 
 ## Tech Stack
-- Python
+- C# & Asp.Net
 - Node.js
 - SQL
 - Java
